@@ -21,3 +21,13 @@ Fig 2: Burger King Whooper.
 ![image](https://github.com/muasyasila/Restaurant/assets/111142846/fb7aea12-4367-4961-816d-be19fb094bc4)
 <br>
 Fig 3 : Glovo Food APP
+<br>
+<h4>In app Photos of the app</h4>
+
+
+![image](https://github.com/muasyasila/Grand-Ma-Betty-Fast-Food-Restaurant/assets/111142846/e5520d07-bdec-4bd4-9709-6b179f8cc680)
+
+![image](https://github.com/muasyasila/Grand-Ma-Betty-Fast-Food-Restaurant/assets/111142846/fd9eaed1-2d77-4241-babc-c37be12a2eed)
+
+![image](https://github.com/muasyasila/Grand-Ma-Betty-Fast-Food-Restaurant/assets/111142846/fb6f0fc8-5b76-41d0-ae99-a3a14fc0148c)
+
